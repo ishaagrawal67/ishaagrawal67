@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Divyanshu050303&show_icons=true&theme=aura">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ishaagrawal67&show_icons=true&theme=aura">
 </p>
 
 - 👋 Hi, I’m Isha Agrawal
