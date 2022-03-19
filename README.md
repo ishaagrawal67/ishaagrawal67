@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isha Agrawal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu050303&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu050303" /> </p>
-<p align="center" width="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaagrawal67&label=Profile%20views&color=0e75b6&style=flat" alt="ishaagrawal67" /> </p>
  
-  
-  
-  
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ishaagrawal67&show_icons=true&theme=aura">
-</p>
+ 
+ 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu050303" alt="divyanshu050303" /></a> </p>
 
 - 👋 Hi, I’m Isha Agrawal
 - 👀 I’m interested in Computers and Sciences.
