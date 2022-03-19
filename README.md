@@ -3,7 +3,7 @@
  
  
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu050303" alt="divyanshu050303" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaagrawal67" alt="ishaagrawal67" /></a> </p>
 
 - 👋 Hi, I’m Isha Agrawal
 - 👀 I’m interested in Computers and Sciences.
