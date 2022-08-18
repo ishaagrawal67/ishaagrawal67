@@ -2,7 +2,7 @@ Hi 👋 My name is Isha Agrawal
 ================================
 #### Designer and Programmer
 <p align="center" >
- ![Designer and Programmer](https://github.com/ishaagrawal67/ishaagrawal67/blob/main/bongo-cat-codes.gif)
+<img align="left" width="10%" src="https://github.com/ishaagrawal67/ishaagrawal67/blob/main/bongo-cat-codes.gif">
  </p>
 
 
