@@ -1,5 +1,8 @@
 Hi 👋 My name is Isha Agrawal
 ================================
+![Designer and Programmer](https://github.com/ishaagrawal67/Isha-Agrawal/blob/java/bongo-cat-codes.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaagrawal673&label=Profile%20views&color=0e75b6&style=flat" alt="ishaagrawal67" /> </p>
 <p align="center" width="100%">
 <p align="right"> <a href="https://www.github.com/ishaagrawal67" target="_blank" rel="noreferrer"><img
